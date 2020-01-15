@@ -1,0 +1,1 @@
+enum Limite { Superior, Inferior }
